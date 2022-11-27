@@ -5,7 +5,7 @@ body{
   background-repeat:no-repeat;
   background-size: cover;
   background-position: center;
-  animation: bgchanges 240s linear infinite;
+  animation: bgchanges 120s linear infinite;
 }
 @keyframes bgchanges {
     0%{
