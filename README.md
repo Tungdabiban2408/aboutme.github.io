@@ -1,9 +1,7 @@
-<script src="https://kit.fontawesome.com/424c432718.js" crossorigin="anonymous"></script>
-
 <h1 align="center">Hi 👋, I'm Tungdabiban</h1>
 <h3 align="Left">This is website about me</h3>
 <h3 style="font-size:xx-large"><strong>Link this website:</strong></h3>
-<a href="#" target="blank"><img align="center" src="image/webicon.png" alt="Link to the website" height="40" width="40" /></a>
+<a href="https://tungdabiban.h4ck.me/" target="blank"><img align="center" src="image/webicon.png" alt="Link to the website" height="40" width="40" /></a>
 
 
 - 🌱 I’m currently learning **Tensorflow**
