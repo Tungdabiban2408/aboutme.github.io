@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tungdabiban</h1>
-<h3 align="center"; font>This is website about me</h3>
+<h3 align="center"; font-size:large>This is website about me</h3>
 
 - 🌱 I’m currently learning **Tensorflow**
 
