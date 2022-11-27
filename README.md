@@ -1,8 +1,8 @@
 <script src="https://kit.fontawesome.com/424c432718.js" crossorigin="anonymous"></script>
 
 <h1 align="center">Hi 👋, I'm Tungdabiban</h1>
-<h0 align="center">This is website about me</h0>
-<a href="#" target="blank"><img align="center" src="image/webicon.ong" alt="tungdabiban2408" height="30" width="40" /></a>
+<h3 align="center">This is website about me</h3>
+<a href="#" target="blank"><img align="center" src="image/webicon.ong" alt="Link to the website" height="30" width="40" /></a>
 
 
 - 🌱 I’m currently learning **Tensorflow**
