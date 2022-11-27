@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Tungdabiban</h1>
 <script src="https://kit.fontawesome.com/424c432718.js" crossorigin="anonymous"></script>
+
+<h1 align="center">Hi 👋, I'm Tungdabiban</h1>
 <h0 align="center">This is website about me</h0>
-<a href=""><i class="fa-solid fa-browser" arial-hiden="true"></i></a>
+<a href="">hi<i class="fa-solid fa-browser" arial-hiden="true"></i></a>
 
 
 - 🌱 I’m currently learning **Tensorflow**
