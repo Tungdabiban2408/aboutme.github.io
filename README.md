@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tungdabiban</h1>
 <h0 align="center">This is website about me</h0>
-<h0><i class="fa-solid fa-browser"></i></h0>
+
 
 - 🌱 I’m currently learning **Tensorflow**
 
